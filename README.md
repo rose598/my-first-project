@@ -1,4 +1,4 @@
-# Collection of Small Projects
+# Collection of Small java Projects
 ## 1.[FooCorporation](https://github.com/rose598/java-project-Solutions-to-Common-Daily-Life-Problems/blob/main/FooCoporation.java)
 ### 
 Foo Corporation needs a program to calculate how much to pay their hourly employees. The US Department of Labor 
