@@ -10,3 +10,12 @@ An employee gets paid (hours worked) × (base pay), for each hour up to 40 hours
 For every hour over 40, they get overtime = (base pay) × 1.5. 
 The base pay must not be less than the minimum wage ($8.00 an hour). If it is, print an error. 
 If the number of hours is greater than 60, print an error messag
+## 2.[Marathon](https://github.com/rose598/java-project-Solutions-to-Common-Daily-Life-Problems/blob/main/Marathon.java)
+A group of MIT friends decide to run the Boston Marathon. Their names and times (in minutes) are below:
+![input](./image/image%20for%20marathon%20information.png)
+Find the fastest runner. Print the name and his/her time (in minutes).
+ Optional: Find the second fastest runner. Print the name and his/her time (in minutes)
+
+
+
+
