@@ -13,6 +13,7 @@ If the number of hours is greater than 60, print an error messag
 ## 2.[Marathon](https://github.com/rose598/java-project-Solutions-to-Common-Daily-Life-Problems/blob/main/Marathon.java)
 A group of MIT friends decide to run the Boston Marathon. Their names and times (in minutes) are below:
 ![input](./image/image%20for%20marathon%20information.png)
+
 Find the fastest runner. Print the name and his/her time (in minutes).
  Optional: Find the second fastest runner. Print the name and his/her time (in minutes)
 
