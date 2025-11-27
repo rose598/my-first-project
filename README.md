@@ -16,6 +16,10 @@ A group of MIT friends decide to run the Boston Marathon. Their names and times 
 
 Find the fastest runner. Print the name and his/her time (in minutes).
  Optional: Find the second fastest runner. Print the name and his/her time (in minutes)
+ ## 3.[Library](https://github.com/rose598/java-project-Solutions-to-Common-Daily-Life-Problems/blob/main/Library.java)
+ The libraries of SmallTownX need a new electronic rental system, and it is up to you to build it. SmallTownX has two 
+libraries. Each library offers many books to rent. Customers can print the list of available books, borrow, and return 
+books.This project can implement a simple library system, with functions including address output, business hours output, storing books, borrowing books, and returning books.
 
 
 
